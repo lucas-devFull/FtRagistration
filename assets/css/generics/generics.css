@@ -1,0 +1,96 @@
+body{
+    background-color: #f9f9f9;
+}
+.menu-btn{
+    margin-bottom: 0px !important;
+    height: 60px;
+    background-color: #222 !important;
+}
+
+.menu-btn:hover{
+    background: #2a2b2d;
+}
+
+.fa-bars{
+    font-size: 30px;
+    margin-top: 5px;
+}
+
+.fa-power-off{
+    margin-top: 1em;
+}
+
+.navbar{
+    border-radius:0;
+}
+
+.pushy{
+    width: 235px ;
+}
+
+.pushy-left {
+    transform: translate3d(-235px, 0, 0) ;
+}
+
+.logout{
+    width: 100px;
+    padding: 10px;
+    color: #FFF;
+    text-align: center;
+    cursor: pointer;
+    border: 0px;
+    margin-bottom: 0px;
+    height: 60px;
+    background-color: #222;
+
+}
+
+.logout:hover{
+    background: #2a2b2d;
+    color: #FFF;
+    list-style: none;
+
+}
+.primeiroLista{
+    background: #7c3635;
+    text-align: center !important;
+}
+.lista-menu{
+
+    margin-left: -60px;
+}
+
+@media (max-width: 765px){
+    .enquadramento{
+        margin-top: 200px;
+    }
+}
+
+@media (min-width: 769px){
+    .enquadramento{
+        margin-top: 90px;
+    }
+}
+
+.bootstrap-table .table > thead.thead-dark > tr > th {
+   background: #222222;
+   color: snow;
+}
+
+.panel-body{
+    margin-bottom: 2%;
+}
+
+.mapa{
+    padding: 0px;
+}
+
+.panel-danger{
+    border: none;
+}
+
+.panel-danger>.panel-heading {
+    color: #ffffff;
+    background-color: #f86c6b;
+    border-color: #f86c6b;
+}

@@ -1,0 +1,42 @@
+.btn-cadastro{
+        border: 1px solid #337ab7;
+        color: #337ab7;
+        background-color: #fff;
+        margin-right: 17px;
+    }
+
+
+.botao-cadastro{
+    display: flex;
+    justify-content: flex-end;
+    padding: 15px;
+    margin-top: -15px;
+    margin-right: 1px;
+
+}
+
+h4{
+    font-size: 2em;
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
+
+.iziToast:after{
+    background-color: #f86c6b;
+}
+
+
+.relatorios{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: -2%;
+}
+
+.btn-relatorio{
+    margin-bottom: -7px;
+}
+
+.iziToast:after{
+    background-color: #f86c6b;
+}
