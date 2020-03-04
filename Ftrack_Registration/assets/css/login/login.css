@@ -1,0 +1,64 @@
+body{
+    background-image: url("../../../images/foto-fundo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: -webkit-fill-available;
+}
+
+.row_login{
+    width: 35% !important; 
+}
+
+.jumbotron{
+    background-color: #fff;
+    box-shadow: 6px 6px 7px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 4em;
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 1em;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.input-group{
+    margin-bottom: 2em;
+    margin-top: 0em;
+}
+
+.input-login{
+    width: 70%;
+    margin: auto;
+    margin-bottom: 20px;
+    border-radius: 25px;
+
+}
+
+.form-control:focus{
+        
+        box-shadow: none;
+        border-color: #00000061;
+
+}
+
+.input-group{
+    width: 70%;
+}
+
+#btn-login{
+    width: 20%;
+    margin: auto;
+    font-size: 15px;
+    border-radius: 50px;
+    background-color: #374d58;
+    border-color: #3d494f;
+    margin-bottom: -60px;
+}
+
+.img-login{
+    margin-bottom: 1em;
+}

@@ -1,0 +1,83 @@
+.callout{
+    border-bottom: 1px solid #c8ced3;
+    border-right: 1px solid #c8ced3;
+    border-top: 1px solid #c8ced3;
+    border-left:4px solid #f86c6b;
+    position: relative;
+    padding: 0 1rem;
+    margin: 1rem 0;
+    border-radius: .25rem;
+    box-sizing: border-box;
+    margin-top: -1%;
+    height: 100px;
+    font-size: 1.3125rem;
+    font-weight: 600;
+    background: #FFF;
+}
+
+.panel-body {
+    padding: 5px;
+}
+
+.Btn-calouts{
+    color: #222222;
+    text-decoration: none !important;
+}
+
+.Btn-calouts:hover{
+    color: #f86c6b;
+}
+table > tbody > tr > td{
+    text-transform: capitalize;
+}
+
+.panel-danger>.panel-heading {
+    color: #ffffff;
+    background-color: #f86c6b;
+    border-color: #f86c6b;
+}
+
+#first-link:focus{
+    border:white;
+}
+
+.row{
+    margin-top: 7%;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.conteudo{
+    margin-top: -84px;
+
+}
+
+@media (max-width:780px) and (min-width:0px) {
+    .calouts-dash{
+        margin-top: 203px !important;
+        margin-bottom: 80px;
+    }
+}
+
+@media (max-width:1100px) and (min-width:770px) {
+    .calouts-dash{
+        margin-top: 90px !important;
+    }
+}
+
+.bootstrap-table .table thead > tr > th {
+    color: snow;
+    background-color: #222222;
+}
+
+.Tabela-Dash{
+    height: 35.7Rem;
+}
+
+.mapa{
+    padding: 0px;
+}
+
+.panel-danger{
+    border: none;
+}

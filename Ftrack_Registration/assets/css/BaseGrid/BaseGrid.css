@@ -1,0 +1,52 @@
+.edita-botoes{
+    margin-bottom: 1%;
+    position: absolute;
+    margin-top: 1%;
+    z-index: 2;
+}
+
+.headerTable{
+    color: snow;
+    background-color: #222222;
+}
+
+.titulo-Lista{
+    text-align: center;
+    font-size: x-large;
+}
+
+#btn-Adicionar{
+    border: 1px solid #337ab7;
+    color: #337ab7;
+    background-color: #fff;
+}
+
+#btn-Adicionar:hover{
+    border: 1px solid #337ab7;
+    color: #ffffff;
+    background-color: #337ab7;
+}
+
+.edit{
+    border: 1px solid #4cae4c;
+    color: #4cae4c;
+    background-color: #ffffff;
+}
+
+.delete{
+    border: 1px solid #d43f3a ;
+    color: #d43f3a;
+    background-color: #ffffff;
+}
+
+th{
+    text-transform: capitalize;
+}
+
+td,th{
+    text-align: center;    
+}
+
+.iziToast:after{
+    background-color: #f86c6b;
+}
